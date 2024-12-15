@@ -1,17 +1,26 @@
-## Ofero Network: Community Manager Role
+# Ofero Network: Community Manager Role
 
-### Role Overview
-The Community Manager is responsible for nurturing the Ofero Network community by facilitating engagement, supporting members, and helping grow a thriving, active, and supportive environment. This role serves as the front line for community feedback, ensuring members feel heard, respected, and supported.
+## Role Overview
+A Community Manager in the Ofero Network plays a crucial role in nurturing, growing, and engaging a community. Once a community on ofero.me reaches 1,000 verified members, a Community Manager is appointed. This individual drives local participation, fosters a positive environment, and works closely with the broader Ofero ecosystem to ensure alignment with the network’s goals.
 
-### Responsibilities
-- Engage with community members to promote active participation and answer general inquiries.
-- Assist community members in understanding and navigating the Ofero Network platform, including helping new members get validated.
-- Support community leaders by sharing insights, promoting projects, and facilitating positive interactions within the network.
-- Gather and share feedback from the community to inform Ofero Network leadership of any emerging needs, concerns, or improvements.
-- Foster a positive and inclusive environment that aligns with Ofero Network’s values and mission.
+## Responsibilities
+- Implement community growth strategies to increase engagement and reach local network goals.
+- Coordinate local marketing initiatives, utilizing allocated budgets effectively.
+- Assist community members in understanding and navigating the [ofero.me](https://ofero.me) platform, including helping new members get validated.
+- Maintain clear, consistent communication channels, listening to member feedback and addressing concerns.
+- Collaborate with the Country Manager (if applicable) and other Ofero representatives to ensure the community’s interests are represented at higher governance levels.
+- Host regular events, workshops, or educational sessions to keep the community informed and involved.
 
-### Minimum Requirements
-- **Financial Stake**: Minimum holdings of 500 USD in OFE or equivalent network tokens to reflect dedication to the network’s growth.
-- **Language Proficiency**: Fluent in English, with strong communication and interpersonal skills to manage community interactions effectively.
-- **Commitment to Engagement**: Regularly available to engage with members, answer questions, and provide support on a weekly basis.
-- **Community-Oriented Mindset**: Enthusiastic about building a vibrant community, with a friendly and inclusive approach to member interactions.
+## Minimum Requirements
+- Must have demonstrated dedication to building and supporting the Ofero community.
+- Must be active, responsive, and capable of guiding community conversations.
+- No election required; the role is appointed once the community meets membership criteria.
+
+## Community Creation Cost  
+
+- Establishing a local community under the Ofero Network umbrella costs $500 USD. A community leader must first create and populate their community before formal recognition.
+
+## Compensation
+- At the start of each month, the Community Manager receives $5,000 in OFE Tokens (unlocked), allocated for marketing and community-building initiatives.
+- If the price of OFE is below $1, monthly compensation is capped at 5,000 OFE.
+- Funds are allocated monthly from the Ofero Operations Wallet.
