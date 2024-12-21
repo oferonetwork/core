@@ -21,19 +21,19 @@ All terms and conditions established by the governance proposal and vote will ta
   *28 February 2026*  
   Public offering of SFT tokens, allowing broader community participation.
 
-- **Voting for the Location of the Meetup & Party**  
+- **Voting for the Location of the Ofero Summit**  
   *7 March 2026*  
-  SFT holders vote on the venue for the upcoming live governance meetup and party.
+  SFT holders vote on the venue for the upcoming Ofero Summit.
 
 - **800 Unique SFT Holders Milestone**  
   *1 July 2026*  
   All circulating SFT tokens must be held by unique holders.
 
-- **Candidate Nomination**  
-  *15 July 2026 – 15 August 2026*  
-  Individuals meeting the minimum requirements can self-nominate or be nominated by community members. This nomination period allows eligible candidates to come forward for election.
+- **Candidate Registration**  
+  *17 August 2026*  
+  Individuals meeting the minimum requirements can register.
   
-- **Live Governance Meetup & Party**  
+- **Ofero Summit**  
   *16 - 23 August 2026*  
   A week-long community event for networking, discussions, and celebrating the Ofero Network’s progress.
 
