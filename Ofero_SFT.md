@@ -32,12 +32,12 @@ The Ofero Network’s Semi-Fungible Token (SFT) model is designed to align token
 - **Unique Holders for Governance**:  
   Ofero aims to have at least 800 unique SFT holders involved in governance by July 1, 2026. Each verified participant may use only one SFT for governance to maintain fairness.
 
-- **Annual Governance Meetups**:  
+- **Annual Governance Meetups (Ofero Summit)**:  
   Starting in 2026, Ofero hosts annual in-person governance events in locations chosen by community vote. During these meetups, SFT holders:
   - Discuss and vote on strategic decisions (e.g., leadership appointments, marketing strategies).
   - Participate either in-person or remotely via the governance dashboard on [ofero.me](https://ofero.me).
 
-- **First Live Governance Event**:  
+- **Ofero Summit**:  
   The initial annual meetup is scheduled for August 16–23, 2026, with the host location selected on March 7, 2026.
 
 ## VIP Status
