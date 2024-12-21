@@ -38,7 +38,7 @@ The Ofero Network’s Semi-Fungible Token (SFT) model is designed to align token
   - Participate either in-person or remotely via the governance dashboard on [ofero.me](https://ofero.me).
 
 - **First Live Governance Event**:  
-  The initial annual meetup is scheduled for August 16–23, 2026, with the host location selected on July 15, 2026.
+  The initial annual meetup is scheduled for August 16–23, 2026, with the host location selected on March 7, 2026.
 
 ## VIP Status
 

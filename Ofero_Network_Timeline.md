@@ -21,13 +21,13 @@ All terms and conditions established by the governance proposal and vote will ta
   *28 February 2026*  
   Public offering of SFT tokens, allowing broader community participation.
 
+- **Voting for the Location of the Meetup & Party**  
+  *7 March 2026*  
+  SFT holders vote on the venue for the upcoming live governance meetup and party.
+
 - **800 Unique SFT Holders Milestone**  
   *1 July 2026*  
   All circulating SFT tokens must be held by unique holders.
-
-- **Meetup & Party Location Voting**  
-  *15 July 2026*  
-  SFT holders vote on the venue for the upcoming live governance meetup and party.
 
 - **Candidate Nomination**  
   *15 July 2026 – 15 August 2026*  
