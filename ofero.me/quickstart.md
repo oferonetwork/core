@@ -1,9 +1,8 @@
 ---
-description: >-
-  Welcome to the Ofero Network Quickstart Guide! Follow these simple steps to
-  start your journey with Ofero Network. This guide is designed to get you up
-  and running in no time.
 icon: bullseye-arrow
+description: >-
+  Follow these simple steps to start your journey with Ofero Network. This guide
+  is designed to get you up and running in no time.
 ---
 
 # Quickstart Guide
@@ -11,14 +10,14 @@ icon: bullseye-arrow
 #### Step 1: Create Your Account
 
 1. Visit [**Ofero Network's main platform (ofero.me)**](https://ofero.me).
-2. Click on the **Sign Up** button and provide the necessary details:
+2. Click on the **Login / Register** button and provide the necessary details:
    * **Name**
    * **Email Address**
    * **Password**
 3. Verify your email address through the confirmation link sent to your inbox.
 4. Log in to access your account dashboard.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/login.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Set Up Your Profile
 

@@ -2,37 +2,38 @@
 
 ## Introduction
 
-* [Welcome](README.md)
+* [Welcome to Ofero Network docs!](README.md)
 * [What is Ofero?](introduction/what-is-ofero.md)
 * [Why Join Ofero Network?](introduction/why-join-ofero-network.md)
 
 ## Getting Started
 
-* [Quickstart Guide](getting-started/quickstart.md)
-* [Ofero Token (OFE)](getting-started/ofero-token-ofe.md)
+* [Ofero Token (OFE)](getting-started/ofero-token-ofe/README.md)
+  * [Utility and Benefits](getting-started/ofero-token-ofe/editor.md)
 * [Setting up your wallet](getting-started/publish-your-docs.md)
-* [Account Verification](getting-started/account-verification.md)
 
 ## Ecosystem Overview
 
-* [Token: Utility and Benefits](ecosystem-overview/editor.md)
+* [Community Guidelines](ecosystem-overview/community-guidelines.md)
+* [Account Verification](ecosystem-overview/account-verification.md)
 * [The Public Wallets](ecosystem-overview/the-public-wallets.md)
 * [The Ofero SFT](ecosystem-overview/the-ofero-sft.md)
-* [Connections System](ecosystem-overview/interactive-blocks.md)
 * [Vault and Token Security](ecosystem-overview/markdown.md)
-* [Special Offers and Loyalty Rewards](ecosystem-overview/images-and-media.md)
-* [Community Guidelines](ecosystem-overview/community-guidelines.md)
 
 ## Ofero.me
 
+* [Quickstart Guide](ofero.me/quickstart.md)
 * [What is Ofero.me?](ofero.me/what-is-ofero.me.md)
-* [Features and Functions](ofero.me/features-and-functions.md)
+* [Features and Functions](ofero.me/features-and-functions/README.md)
+  * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
+  * [The Treasury Box](ofero.me/features-and-functions/the-treasury-box.md)
 * [User Levels](ofero.me/user-levels.md)
 * [Navigating Ofero.me](ofero.me/navigating-ofero.me.md)
-* [Business interaction](ofero.me/business-interaction.md)
+* [Special Offers and Loyalty Rewards](ofero.me/images-and-media.md)
 
 ## For Businesses
 
+* [Business interaction](for-businesses/business-interaction.md)
 * [Business Integration Guide](for-businesses/business-integration-guide.md)
 * [Benefits of Joining](for-businesses/benefits-of-joining.md)
 * [Case Studies](for-businesses/case-studies.md)
@@ -40,6 +41,11 @@
 ## Developer Resources
 
 * [Github Repository](developer-resources/github-repository.md)
+
+## Additional Resources
+
+* [Media Kit](additional-resources/media-kit.md)
+* [Blog and Announcements](additional-resources/blog-and-announcements.md)
 
 ## FAQ
 
