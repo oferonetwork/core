@@ -1,0 +1,6 @@
+---
+icon: page
+---
+
+# Privacy Policy
+

@@ -1,0 +1,6 @@
+---
+icon: buildings
+---
+
+# Business interaction
+
