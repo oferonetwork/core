@@ -1,8 +1,8 @@
 ---
+icon: file-user
 description: >-
   To maintain a positive and inclusive environment, we have established the
   following Community Guidelines.
-icon: file-user
 ---
 
 # Community Guidelines
@@ -73,7 +73,7 @@ By participating in the Ofero Network, you agree to adhere to these principles a
 
 #### 1. **Reporting Violations**
 
-* If you encounter behavior that violates these guidelines, report it through the appropriate channels on **ofero.me**.
+* If you encounter behavior that violates these guidelines, report it through e-mail [info@ofero.network](mailto:info@ofero.network) or via Telegram [@oferonetwork](https://t.me/oferonetwork) the appropriate channels on **ofero.me**.
 * Provide detailed information to help the community moderators address the issue effectively.
 
 #### 2. **Conflict Resolution**

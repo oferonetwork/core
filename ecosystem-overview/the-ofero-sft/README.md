@@ -9,19 +9,6 @@ description: >-
 
 ***
 
-### Sales Timeline
-
-#### Private Sale (Begins February 28, 2025):
-
-* 300 SFTs offered at **225,000 OFE** or **$3,250 USDC**, whichever is lower.
-
-#### Public Sale (Begins February 28, 2026):
-
-* Remaining SFTs sold at **450,000 OFE** or **$7,500 USDC**, whichever is lower.
-* Unsold SFTs remain listed by the **Accumulator Nexus** until sold.
-
-***
-
 ### Value Structure
 
 * Each SFT is conceptually valued at **450,000 OFE**, aligned with the total OFE supply of 450 million tokens.

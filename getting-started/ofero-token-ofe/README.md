@@ -1,5 +1,5 @@
 ---
-icon: circle
+icon: bullseye
 description: >-
   The Ofero Token (OFE) is the native cryptocurrency of the Ofero Network,
   functioning as both a loyalty reward system and a multi-chain utility token

@@ -1,9 +1,9 @@
 ---
+icon: circle-question
 description: >-
   Discover the advantages of becoming a part of the Ofero Network and how it
   connects users and businesses through innovation, trust, and real-world
   integration.
-icon: block-question
 ---
 
 # Why Join Ofero Network?

@@ -1,5 +1,6 @@
 ---
 icon: people-group
+hidden: true
 ---
 
 # Connections System

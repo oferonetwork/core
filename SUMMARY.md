@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Welcome to Ofero Network docs!](README.md)
+* [Welcome to Ofero Network!](README.md)
 * [What is Ofero?](introduction/what-is-ofero.md)
 * [Why Join Ofero Network?](introduction/why-join-ofero-network.md)
 
@@ -15,23 +15,25 @@
 ## Ecosystem Overview
 
 * [Community Guidelines](ecosystem-overview/community-guidelines.md)
+* [The PoTT Protocol](ecosystem-overview/the-pott-protocol.md)
 * [The Public Wallets](ecosystem-overview/the-public-wallets.md)
-* [The Ofero SFT](ecosystem-overview/the-ofero-sft.md)
+* [The Ofero SFT](ecosystem-overview/the-ofero-sft/README.md)
+  * [SFT Sales Timeline](ecosystem-overview/the-ofero-sft/sft-sales-timeline.md)
 * [Vault and Token Security](ecosystem-overview/markdown.md)
 
 ## Ofero.me
 
 * [What is Ofero.me?](ofero.me/what-is-ofero.me.md)
 * [Before You Register](ofero.me/before-you-register.md)
-* [Registration](ofero.me/quickstart.md)
+* [Registering on Ofero.me](ofero.me/quickstart.md)
 * [Account Verification](ofero.me/account-verification.md)
+* [Become a Manager](ofero.me/become-a-manager.md)
 * [User Levels](ofero.me/user-levels.md)
 * [Features and Functions](ofero.me/features-and-functions/README.md)
   * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
   * [The Treasury Box](ofero.me/features-and-functions/the-treasury-box.md)
 * [Navigating Ofero.me](ofero.me/navigating-ofero.me/README.md)
   * [Special Offers and Loyalty Rewards](ofero.me/navigating-ofero.me/images-and-media.md)
-* [Page](ofero.me/page.md)
 
 ## For Businesses
 
@@ -47,7 +49,7 @@
 ## Additional Resources
 
 * [Media Kit](additional-resources/media-kit.md)
-* [Blog and Announcements](additional-resources/blog-and-announcements.md)
+* [Social Media & Community](additional-resources/social-media-and-community.md)
 
 ## FAQ
 

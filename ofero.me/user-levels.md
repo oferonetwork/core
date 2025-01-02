@@ -29,9 +29,8 @@ For users seeking more engagement and benefits, the **PLUS Membership** offers e
 #### Benefits:
 
 * Access to exclusive discounts and promotions.
-* Increased rewards in the loyalty program.
+* Increased rewards from the Treasury Box.
 * Priority support within the ecosystem.
-* Advanced features on Ofero.me, including expanded business interactions.
 
 ***
 
@@ -42,7 +41,6 @@ The **VIP Membership** is designed for those who own a **Semi-Fungible Token (SF
 #### Benefits:
 
 * All benefits of PLUS Membership.
-* Exclusive access to high-reward programs.
 * Governance participation, including voting rights on critical network decisions.
 * Special recognition within the community.
 * Unique opportunities, such as early access to events or exclusive partnerships.
