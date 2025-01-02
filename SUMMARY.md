@@ -31,9 +31,10 @@
 * [User Levels](ofero.me/user-levels.md)
 * [Features and Functions](ofero.me/features-and-functions/README.md)
   * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
-  * [The Treasury Box](ofero.me/features-and-functions/the-treasury-box.md)
 * [Navigating Ofero.me](ofero.me/navigating-ofero.me/README.md)
   * [Special Offers and Loyalty Rewards](ofero.me/navigating-ofero.me/images-and-media.md)
+* [The Treasury Box](ofero.me/the-treasury-box.md)
+* [Sponsor the Treasury Box](ofero.me/sponsor-the-treasury-box.md)
 
 ## For Businesses
 
