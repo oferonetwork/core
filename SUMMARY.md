@@ -23,7 +23,7 @@
 
 ## Ofero.me
 
-* [What is Ofero.me?](ofero.me/what-is-ofero.me.md)
+* [Overview](ofero.me/overview.md)
 * [Before You Register](ofero.me/before-you-register.md)
 * [Registering on Ofero.me](ofero.me/quickstart.md)
 * [Account Verification](ofero.me/account-verification.md)
