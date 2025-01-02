@@ -15,21 +15,23 @@
 ## Ecosystem Overview
 
 * [Community Guidelines](ecosystem-overview/community-guidelines.md)
-* [Account Verification](ecosystem-overview/account-verification.md)
 * [The Public Wallets](ecosystem-overview/the-public-wallets.md)
 * [The Ofero SFT](ecosystem-overview/the-ofero-sft.md)
 * [Vault and Token Security](ecosystem-overview/markdown.md)
 
 ## Ofero.me
 
-* [Quickstart Guide](ofero.me/quickstart.md)
 * [What is Ofero.me?](ofero.me/what-is-ofero.me.md)
+* [Before You Register](ofero.me/before-you-register.md)
+* [Registration](ofero.me/quickstart.md)
+* [Account Verification](ofero.me/account-verification.md)
+* [User Levels](ofero.me/user-levels.md)
 * [Features and Functions](ofero.me/features-and-functions/README.md)
   * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
   * [The Treasury Box](ofero.me/features-and-functions/the-treasury-box.md)
-* [User Levels](ofero.me/user-levels.md)
-* [Navigating Ofero.me](ofero.me/navigating-ofero.me.md)
-* [Special Offers and Loyalty Rewards](ofero.me/images-and-media.md)
+* [Navigating Ofero.me](ofero.me/navigating-ofero.me/README.md)
+  * [Special Offers and Loyalty Rewards](ofero.me/navigating-ofero.me/images-and-media.md)
+* [Page](ofero.me/page.md)
 
 ## For Businesses
 

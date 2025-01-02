@@ -1,19 +1,8 @@
 ---
+icon: envelope-open-dollar
 description: >-
   The Ofero Network Semi-Fungible Token (SFT) is designed to align with the
   total OFE token supply and the long-term growth of the Ofero Network.
-icon: envelope-open-dollar
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # The Ofero SFT
@@ -38,7 +27,7 @@ layout:
 * Each SFT is conceptually valued at **450,000 OFE**, aligned with the total OFE supply of 450 million tokens.
 * The option to directly claim **100,000 OFE as an exit** is no longer available starting **February 28, 2025**.
 
-#### For Current Holders:
+### For Current Holders:
 
 1. **Transition Option:** Holders preferring the original terms may request a full refund of **112,100 OFE per SFT** by **February 28, 2025**.
 2. **Post-Deadline Transition:** After **February 28, 2025**, all SFTs automatically adopt the current valuation model. Refund requests will no longer be accepted.

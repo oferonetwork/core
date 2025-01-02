@@ -12,7 +12,6 @@ description: >-
 
 1. **Loyalty and Rewards System**:
    * The Ofero Token (`$OFE`) acts as a form of loyalty points, allowing users to earn and redeem rewards through partnerships with businesses​​.
-   * Tools like the Treasury Box offer network-wide rewards by engaging users and their connections​.
 2. **Dual-Blockchain Functionality**:
    * Operating on both MultiversX and Binance Smart Chain, ensuring interoperability and user accessibility​​.
 3. **Business Integration**:
