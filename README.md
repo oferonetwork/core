@@ -29,6 +29,4 @@ With trust, transparency, and collaboration as its core principles, Ofero offers
 
 **Start exploring today and become a part of a growing ecosystem that rewards loyalty**, supports businesses, and empowers individuals.
 
-{% content-ref url="ofero.me/quickstart.md" %}
-[quickstart.md](ofero.me/quickstart.md)
-{% endcontent-ref %}
+{% embed url="https://www.youtube.com/watch?v=rW_ZYpyX05g" %}
