@@ -8,20 +8,20 @@ coverY: 5.8658457550226615
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
-# Welcome to Ofero Network docs!
+# Welcome to Ofero Network!
 
 Discover a blockchain-based ecosystem where innovation meets real-world applications. Ofero Network is designed to bridge the gap between blockchain technology and everyday benefits, creating meaningful connections between users, businesses, and communities.
 
