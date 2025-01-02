@@ -1,8 +1,8 @@
 ---
+icon: rectangle-ad
 description: >-
   This page guides potential sponsors on how to advertise with the Ofero Network
   through the Treasury Box sponsorship program.
-icon: rectangle-ad
 ---
 
 # Sponsor the Treasury Box
@@ -20,7 +20,7 @@ icon: rectangle-ad
 
 ***
 
-**Steps to Become a Sponsor**
+**How to Become a Sponsor**
 
 1. **Prepare Your Submission**
    * Email your request to info@ofero.network.
@@ -35,9 +35,9 @@ icon: rectangle-ad
      * Pornographic content.
      * Illegal activities.
 3. **Payment Instructions**
-   * Approved sponsors will receive instructions to send tokens to the Treasury Box wallet: `erd1y2vj7jqypaxzz3xwpylnvrs3tzttgjcpnyu4pur7lzz5pqkmhtys0treas`
+   * Approved sponsors will receive instructions to send tokens DIRECTLY to the Treasury Box wallet: `erd1y2vj7jqypaxzz3xwpylnvrs3tzttgjcpnyu4pur7lzz5pqkmhtys0treas`
 4. **Logo Activation**
-   * Upon confirmation of payment, your logo will be published and included in the Treasury Box rotation.
+   * Upon confirmation of payment, your logo will be published and included in the Treasury Box rotation for the next month.
 
 ***
 
