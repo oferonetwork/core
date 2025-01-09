@@ -27,6 +27,8 @@
 * [Before You Register](ofero.me/before-you-register.md)
 * [Registering on Ofero.me](ofero.me/quickstart.md)
 * [Account Verification](ofero.me/account-verification.md)
+* [Beta Apps](ofero.me/beta-apps/README.md)
+  * [Price Lists](ofero.me/beta-apps/price-lists.md)
 * [The Manager](ofero.me/the-manager/README.md)
   * [Invite a Business](ofero.me/the-manager/invite-a-business.md)
 * [User Levels](ofero.me/user-levels.md)
