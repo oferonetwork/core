@@ -1,8 +1,8 @@
 ---
+icon: rectangle-list
 description: >-
   The Price Lists feature allows users to create and manage lists of product
   prices for personal tracking.
-icon: rectangle-list
 ---
 
 # Price Lists
@@ -39,5 +39,5 @@ Navigate to **Beta Apps > Price Lists** in ofero.me
 {% endhint %}
 
 {% hint style="danger" %}
-While in Beta Mode, **Price Lists** is available only for **SFT Holders** and **Verified Members**.
+While in Beta Mode, **Price Lists** App is available only for **SFT Holders** and **Verified Members**.
 {% endhint %}
