@@ -14,13 +14,13 @@ The Ofero Network offers a unique mix of blockchain innovation and practical rea
 
 1. **Earn Rewards**
    * Participate in loyalty programs through the $OFE token.
-   * Access cashback rewards and special promotions on Ofero.me.
+   * Access cashback, rewards, and special promotions on Ofero.me.
 2. **Support Decentralization**
    * Contribute to a transparent and community-driven platform.
    * Influence the network's growth and direction through decentralized governance.
 3. **Engage with Businesses**
    * Connect with local and global businesses integrated into the ecosystem.
-   * Use features like the "Register Your Visit" to encourage partnerships.
+   * Use features like the "Invite a Business" to encourage partnerships.
 4. **Trust and Transparency**
    * Benefit from the Proof of Trust and Transparency (PoTT) protocol.
    * Track financial activities through the Transparent Wallet Initiative.
