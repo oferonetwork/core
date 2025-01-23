@@ -1,9 +1,5 @@
 ---
 icon: block-question
-description: >-
-  Learn about Ofero Network, a blockchain platform integrating technology with
-  everyday benefits through its unique token-based loyalty system and real-world
-  business connections.
 ---
 
 # What is Ofero?

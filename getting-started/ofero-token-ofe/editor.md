@@ -28,7 +28,7 @@ description: >-
 ### Benefits
 
 1. **Financial Incentives**:
-   * Users benefit from staking rewards, cashback systems, and loyalty programs​​.
+   * Users benefit from various rewards, cashback systems, and loyalty programs​​.
    * Businesses gain visibility and revenue opportunities by being part of the Ofero Network​​.
 2. **Community Engagement**:
    * Decentralized governance allows users to vote on key decisions, ensuring transparency and trust​​.

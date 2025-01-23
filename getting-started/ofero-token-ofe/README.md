@@ -16,9 +16,6 @@ description: >-
   * **MultiversX (Elrond)**: Known as `OFE-29eb54`, supports 4 decimals.
   * **Binance Smart Chain (BSC)**: Fully compatible with BEP-20 standards, supports 18 decimals​.
 * **Trading Pairs**: Actively traded with pairs like `OFE/WEGLD` and `OFE/BNB`​.
-
-### Use Cases
-
 * **Loyalty Rewards**: Functions as a system for earning and redeeming rewards in real-world applications​.
 * **Business Integration**: Integrated into Ofero.me and Ofero.ro platforms, enhancing business visibility and enabling blockchain-based voting for users​​.
 * **Cashback System**: Offers cashback benefits in collaboration with global and local businesses through Ofero.me​.
