@@ -3,7 +3,8 @@
 ## Introduction
 
 * [Welcome to Ofero Network!](README.md)
-* [What is Ofero?](introduction/what-is-ofero.md)
+* [What is Ofero?](introduction/what-is-ofero/README.md)
+  * [Long-term vision](introduction/what-is-ofero/long-term-vision.md)
 * [Why Join Ofero Network?](introduction/why-join-ofero-network.md)
 
 ## Getting Started
