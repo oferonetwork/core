@@ -1,65 +1,73 @@
 ---
-description: >-
-  The Treasury Box is a gamified reward feature within the Ofero Network that
-  encourages user engagement and expands network activity.
 icon: box-dollar
+description: >-
+  The Treasury Box is a unique feature on Ofero.me that allows users to earn OFE
+  tokens by engaging with their network.
 ---
 
 # The Treasury Box
 
-### **Key Features**
+***
 
-1. **Mutual Friend Approvals**:
-   * Opening a Treasury Box requires at least five mutual friends to approve the action.
-   * If all mutual friends are on cooldown, the system auto-approves the box, but a longer cooldown period applies​.
-2. **Cooldown System**:
-   * **Normal Cooldown**:
-     * 3 days for the box opener.
-     * 7 days for mutual friends who approve the box.
-   * **Auto-Approval Cooldown**:
-     * A 10-day cooldown applies if mutual friends are unavailable to approve​.
-3. **Multi-Level Rewards**:
-   * Users earn tokens based on their network's activity, not just their direct referrals.
-   * Account status (Free, Plus, VIP) influences the rewards​.
-4. **Status-Based Benefits**:
-   * Higher account statuses, such as VIP, yield increased rewards and additional advantages.
-5. **Error Handling**:
-   * Users without at least five mutual friends cannot open a Treasury Box. The system displays an error message indicating the requirement​.
+### How It Works
+
+To open a Treasury Box, users must have at least **five mutual friends** who can approve the request. Once the box is opened, the user and the approver receive rewards in OFE tokens. The number of tokens depends on multiple factors, such as account status, referral network, and sponsor contributions.
 
 ***
 
-### **Utility for Users**
+#### Steps to Open a Treasury Box:
 
-* Encourages building a robust network by incentivizing social connections.
-* Provides a mechanism for earning rewards beyond staking and cashback systems.
-* Supports active participation and engagement within the Ofero Network ecosystem.
-
-***
-
-### **Benefits**
-
-1. **For Users**:
-   * Access to multi-level rewards creates long-term earning opportunities.
-   * Encourages collaboration among users to maximize mutual benefits.
-2. **For the Network**:
-   * Increased user engagement and activity within the ecosystem.
-   * Strengthens community ties through collaborative reward mechanisms.
-   * **Incentivized Referrals**: To open a Treasury Box, users need mutual friends within the network. This requirement naturally motivates users to introduce their friends to the Ofero Network so they can qualify for rewards.
-   * **Social Growth**: Each new referral not only expands the user's personal network but also grows the overall Ofero Network community, creating a **viral adoption loop**.
+1. Ensure you have at least five mutual friends on Ofero.me.
+2. Click the **Open Treasury Box** button.
+3. If mutual friends are available to approve, one is randomly selected to validate the box.
+4. Once approved, the tokens are distributed based on the user's ranking details.
+5. A **cooldown period** applies before opening another box.
 
 ***
 
-### **Opening a Treasury Box – Step-by-Step**
+### Cooldown Period
 
-1. Ensure you have at least five mutual friends in the network.
-2. Initiate the opening process on the Ofero.me platform.
-3. Mutual friends approve the request (if available).
-4. Receive rewards based on your status and network activity.
-
-If mutual friends are unavailable:
-
-* The system auto-approves the box, and a 10-day cooldown period begins​.
+* **Box opener:** 3-day cooldown.
+* **Approver:** 4-day cooldown.
+* If no mutual friends are available, the box is auto-approved, but the opener gets a **7-day cooldown**.
 
 ***
 
-The Treasury Box feature exemplifies Ofero Network's commitment to blending social interaction with blockchain rewards, making it an integral part of the ecosystem.
+### Ranking and Rewards Calculation
+
+Rewards are calculated based on:
+
+* **User account status:** Free, Plus, or VIP.
+* **Referral activity:** Direct and second-level referrals.
+* **Mutual friends count.**
+* **Sponsors:** Some boxes are sponsored by businesses, adding additional rewards.
+
+***
+
+### Approving a Treasury Box
+
+If a user is selected as an approver, they can approve the Treasury Box, triggering the reward distribution. Approving also grants tokens but initiates a cooldown period for the approver.
+
+{% hint style="info" %}
+Users can also check the readiness of their friends to open or approve Treasury Boxes. This helps coordinate openings and maximize potential rewards.
+{% endhint %}
+
+***
+
+### Sponsored Treasury Boxes
+
+Some Treasury Boxes are sponsored by businesses in the Ofero Network. If a box has a sponsor, additional rewards are included, and the sponsor’s branding is displayed. Users can visit the sponsor’s website directly from the Treasury Box page.
+
+***
+
+### Frequently Asked Questions
+
+**What if I don’t have enough mutual friends?** You cannot open a Treasury Box without at least five mutual friends.
+
+**Can I open multiple boxes at once?** No, you can only open one box at a time.
+
+**What happens if my selected approver is on cooldown?** Another available mutual friend will be chosen. If all are on cooldown, the box is auto-approved with a longer cooldown period.
+
+{% hint style="success" %}
+The Treasury Box system on Ofero.me creates engagement, encourages network building, and rewards active users, making it a valuable feature of the platform.
+{% endhint %}
