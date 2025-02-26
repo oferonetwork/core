@@ -20,7 +20,7 @@
 * [The PoTT Protocol](ecosystem-overview/the-pott-protocol.md)
 * [The Public Wallets](ecosystem-overview/the-public-wallets.md)
 * [The Ofero SFT](ecosystem-overview/the-ofero-sft/README.md)
-  * [SFT Sales Timeline](ecosystem-overview/the-ofero-sft/sft-sales-timeline.md)
+  * [SFT Sale Instructions](ecosystem-overview/the-ofero-sft/sft-sale-instructions.md)
 * [Vault and Token Security](ecosystem-overview/markdown.md)
 
 ## Ofero.me
