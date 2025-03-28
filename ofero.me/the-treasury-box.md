@@ -1,8 +1,8 @@
 ---
-icon: box-dollar
 description: >-
   The Treasury Box is a unique feature on Ofero.me that allows users to earn OFE
   tokens by engaging with their network.
+icon: box-dollar
 ---
 
 # The Treasury Box
@@ -11,7 +11,7 @@ description: >-
 
 ### How It Works
 
-To open a Treasury Box, users must have at least **five mutual friends** who can approve the request. Once the box is opened, the user and the approver receive rewards in OFE tokens. The number of tokens depends on multiple factors, such as account status, referral network, and sponsor contributions.
+To open a Treasury Box, users must have at least five mutual friends who can approve the request **and must have brought in at least one referral within the last 30 days**. Once the box is opened, the user and the approver receive rewards in OFE tokens. The number of tokens depends on multiple factors, such as account status, referral network, and sponsor contributions.
 
 ***
 
@@ -28,8 +28,8 @@ To open a Treasury Box, users must have at least **five mutual friends** who can
 ### Cooldown Period
 
 * **Box opener:** 3-day cooldown.
-* **Approver:** 4-day cooldown.
-* If no mutual friends are available, the box is auto-approved, but the opener gets a **7-day cooldown**.
+* **Approver:** 5-day cooldown.
+* If no mutual friends are available, the box is auto-approved, but the opener gets a **8-day cooldown**.
 
 ***
 
