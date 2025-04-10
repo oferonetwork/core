@@ -65,4 +65,4 @@ icon: handshake
 * **For Businesses**: A transparent ecosystem that aligns with ethical practices.
 * **For Investors**: A reliable and accountable network that fosters long-term growth.
 
-The PoTT protocol is central to Ofero Network's identity, distinguishing it as a leader in blockchain trust, transparency, and community engagement. Let me know if you'd like more details or a specific focus on its implementation!
+The PoTT protocol is central to Ofero Network's identity, distinguishing it as a leader in blockchain trust, transparency, and community engagement.
