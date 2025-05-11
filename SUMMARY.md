@@ -18,6 +18,7 @@
 
 * [Community Guidelines](ecosystem-overview/community-guidelines.md)
 * [The PoTT Protocol](ecosystem-overview/the-pott-protocol.md)
+* [Governance and Voting System](ecosystem-overview/governance-and-voting-system.md)
 * [The Public Wallets](ecosystem-overview/the-public-wallets.md)
 * [The Ofero SFT](ecosystem-overview/the-ofero-sft/README.md)
   * [SFT Sale Instructions](ecosystem-overview/the-ofero-sft/sft-sale-instructions.md)
