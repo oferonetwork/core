@@ -1,24 +1,10 @@
 ---
-icon: hand-wave
 description: >-
   Welcome to the official documentation for Ofero Network — an innovative
   On-Chain Financial Ecosystem.
+icon: hand-wave
 cover: .gitbook/assets/1500x500.jpg
 coverY: 5.8658457550226615
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to Ofero Network!

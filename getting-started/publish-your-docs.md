@@ -1,8 +1,8 @@
 ---
-icon: wallet
 description: >-
   This page guides users through creating and restoring wallets using
   wallet.ofero.network, emphasizing security and offline use.
+icon: wallet
 ---
 
 # Setting up your wallet
@@ -42,3 +42,7 @@ description: >-
   * Keep the ZIP file on a device that is not connected to the internet or in a physical safe.
 * **Password Protection:**
   * If you set a password for the .json, ensure it is unique and strong. Do not share it.
+
+{% hint style="danger" %}
+Anyone who obtains your 24-word recovery phrase will have full access to your funds—no additional password or security measure is required to transfer the funds.
+{% endhint %}
