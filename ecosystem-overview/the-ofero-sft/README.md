@@ -8,7 +8,10 @@ icon: envelope-open-dollar
 
 ### Overview
 
-The Ofero Network Semi-Fungible Token (**SFT**) is **the most valuable asset within the ecosystem**, functioning as a share of the network. Each SFT represents a lifelong staking right equivalent to holding **450,000 OFE**, with an annual percentage rate (APR) of **8.4%**.&#x20;
+The Ofero Network Semi-Fungible Token (**SFT**) is the most valuable asset in the ecosystem, functioning as **a true share of the network**. Each SFT **embeds the equivalent of 450,000 OFE** within it—no additional tokens are needed—granting holders a passive annual percentage rate (APR) of **8.4%**. Rewards are distributed transparently from the wallet managed by the SFT Smart Contract, with all transactions visible on the blockchain:
+
+**Ofero: SFT Smart Contract**\
+[https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqj8u0xtmjehue9xtwmpufestl88g0l8mjvmdsnz9vwg](https://explorer.multiversx.com/accounts/erd1qqqqqqqqqqqqqpgqj8u0xtmjehue9xtwmpufestl88g0l8mjvmdsnz9vwg)
 
 All network profits are directed to the **Ofero SFT Smart Contract Wallet** for distribution to SFT holders.\
 \
@@ -20,7 +23,7 @@ All network profits are directed to the **Ofero SFT Smart Contract Wallet** for 
 
 Ofero Network envisions a fair and decentralized governance system, with key milestones for participation:
 
-* **Unique Holders Target:** By July 1, 2026, Ofero aims for at least 800 unique SFT holders actively engaging in governance.
+* **Unique Holders Target:** By July 1, 2026, Ofero aims for at least 700 unique SFT holders actively engaging in governance.
 * **Profile Registration:** Holders must register and verify their profiles on [ofero.me](https://ofero.me).
 * **Staking and Governance:** While staking is technically unlimited, Ofero aims for a system where governance and participation are based on holding a single SFT per person.
 * **Annual Meetups:** Starting in 2026, in-person governance meetups will be held at a global location each year. Remote participation will not be available, requiring attendees to be present in person.
