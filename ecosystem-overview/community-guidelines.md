@@ -1,8 +1,8 @@
 ---
-icon: file-user
 description: >-
   To maintain a positive and inclusive environment, we have established the
   following Community Guidelines.
+icon: file-user
 ---
 
 # Community Guidelines
@@ -45,11 +45,10 @@ By participating in the Ofero Network, you agree to adhere to these principles a
 * Respect the privacy and confidentiality of other members.
 * Refrain from spamming, self-promotion, or sharing inappropriate content.
 
-#### For Leaders:
+#### For Leaders/Managers:
 
 * Lead by example and uphold the values of the Ofero Network.
 * Be accessible and supportive to those connected to your network.
-* Avoid exploiting your position for personal gain or engaging in unethical behavior.
 
 ***
 
@@ -73,7 +72,7 @@ By participating in the Ofero Network, you agree to adhere to these principles a
 
 #### 1. **Reporting Violations**
 
-* If you encounter behavior that violates these guidelines, report it through e-mail [info@ofero.network](mailto:info@ofero.network) or via Telegram [@oferonetwork](https://t.me/oferonetwork) the appropriate channels on **ofero.me**.
+* If you encounter behavior that violates these guidelines, report it by e-mail at [info@ofero.network](mailto:info@ofero.network) or via Telegram at [@oferonetwork](https://t.me/oferonetwork)&#x20;
 * Provide detailed information to help the community moderators address the issue effectively.
 
 #### 2. **Conflict Resolution**
