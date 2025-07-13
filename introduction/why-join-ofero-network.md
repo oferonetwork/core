@@ -1,9 +1,9 @@
 ---
-icon: circle-question
 description: >-
   Discover the advantages of becoming a part of the Ofero Network and how it
   connects users and businesses through innovation, trust, and real-world
   integration.
+icon: circle-question
 ---
 
 # Why Join Ofero Network?
@@ -24,10 +24,7 @@ The Ofero Network offers a unique mix of blockchain innovation and practical rea
 4. **Trust and Transparency**
    * Benefit from the Proof of Trust and Transparency (PoTT) protocol.
    * Track financial activities through the Transparent Wallet Initiative.
-5. **Innovative Features**
-   * Explore unique tools like the Treasury Box and xChapo rewards.
-   * Enjoy easy cross-chain token transactions and staking solutions.
-6. **User-Friendly Platform**
+5. **User-Friendly Platform**
    * Ofero.me simplifies registration, data management, and engagement.
    * Accessible for blockchain beginners and experts alike.
 
