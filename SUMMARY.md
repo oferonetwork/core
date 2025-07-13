@@ -7,6 +7,7 @@
   * [Long-term vision](introduction/what-is-ofero/long-term-vision.md)
   * [Ofero Network's Value](introduction/what-is-ofero/ofero-networks-value.md)
 * [Why Join Ofero Network?](introduction/why-join-ofero-network.md)
+* [Referrals](introduction/referrals.md)
 
 ## Getting Started
 
@@ -28,8 +29,6 @@
 * [Before You Register](ofero.me/before-you-register.md)
 * [Registering on Ofero.me](ofero.me/quickstart.md)
 * [Account Verification](ofero.me/account-verification.md)
-* [Beta Apps](ofero.me/beta-apps/README.md)
-  * [Price Lists](ofero.me/beta-apps/price-lists.md)
 * [The Manager](ofero.me/the-manager/README.md)
   * [Invite a Business](ofero.me/the-manager/invite-a-business.md)
 * [User Levels](ofero.me/user-levels.md)
@@ -37,8 +36,6 @@
   * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
 * [Navigating Ofero.me](ofero.me/navigating-ofero.me/README.md)
   * [Special Offers and Loyalty Rewards](ofero.me/navigating-ofero.me/images-and-media.md)
-* [The Treasury Box](ofero.me/the-treasury-box.md)
-* [Sponsor the Treasury Box](ofero.me/sponsor-the-treasury-box.md)
 
 ## For Businesses
 
