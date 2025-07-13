@@ -96,7 +96,7 @@ The system automatically finalizes proposals based on voting statistics:
 
 * A proposal is **locked** if further votes can't change its result.
 * A proposal is **passed** if it has a clear majority.
-* Proposals reaching **80% voter participation** are evaluated and may be marked as `completed`.
+* Proposals reaching **80% voter participation** are evaluated and will be automatically marked as `completed`  at the end of the day.
 
 ***
 
