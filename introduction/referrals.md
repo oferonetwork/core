@@ -37,23 +37,5 @@ If your referral wants to move to another user, here is how it works:
 4. If you take no action, the system will automatically approve the change after 30 days.
 5. You also have the option to cancel the request if you do not agree with it.
 
-***
-
-## Bonuses
-
-You earn bonuses when your referrals interact with the platform:
-
-* **Token Purchases:**\
-  If your referral buys $OFE using USDC or EGLD, you receive **1%** of their purchase in OFE.
-* **Membership Purchase by Direct Referral:**\
-  If you have an active membership and your referral buys one too, you get **$5 worth of OFE**.
-* **Indirect Referral Membership:**\
-  If your referral brings another person who also buys a membership:
-  * You receive **$2 worth of OFE**
-  * Your referral receives **$5 worth of OFE**
-* **Cashback Bonuses:**\
-  There are also rewards linked to cashback activity from referrals.\
-  These vary depending on each business partner's agreement and may change.
-
 
 
