@@ -1,8 +1,8 @@
 ---
-icon: money-check-pen
 description: >-
   This page explains the step-by-step process to create an account on Ofero.me,
   the entry point to the Ofero Network ecosystem.
+icon: money-check-pen
 ---
 
 # Registering on Ofero.me
@@ -16,7 +16,7 @@ description: >-
    * A verification code will be sent to your email. Check your inbox (or spam folder) and enter the code on the website.
 5. **Set Up Your Account**
    * Choose a unique username.
-   * Complete your personal details, including name, date of birth, and profile photo.
+   * Complete your personal details, including name and e-mail address.
 
 <figure><img src="../.gitbook/assets/login.jpg" alt=""><figcaption></figcaption></figure>
 
