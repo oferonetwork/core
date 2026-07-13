@@ -31,7 +31,6 @@
 * [Account Verification](ofero.me/account-verification.md)
 * [The Manager](ofero.me/the-manager/README.md)
   * [Invite a Business](ofero.me/the-manager/invite-a-business.md)
-* [User Levels](ofero.me/user-levels.md)
 * [Features and Functions](ofero.me/features-and-functions/README.md)
   * [Connections System](ofero.me/features-and-functions/interactive-blocks.md)
 * [Navigating Ofero.me](ofero.me/navigating-ofero.me/README.md)

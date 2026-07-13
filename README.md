@@ -5,6 +5,27 @@ description: >-
 icon: hand-wave
 cover: .gitbook/assets/1500x500.jpg
 coverY: 5.8658457550226615
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Welcome to Ofero Network!

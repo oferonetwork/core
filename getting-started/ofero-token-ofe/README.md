@@ -1,8 +1,8 @@
 ---
-icon: bullseye
 description: >-
   The Ofero Token (OFE) is the native cryptocurrency of the Ofero Network,
   functioning as both a loyalty reward system and a multi-chain utility token
+icon: bullseye
 ---
 
 # Ofero Token (OFE)
@@ -17,6 +17,5 @@ description: >-
   * **Binance Smart Chain (BSC)**: Fully compatible with BEP-20 standards, supports 18 decimals​.
 * **Trading Pairs**: Actively traded with pairs like `OFE/WEGLD` and `OFE/BNB`​.
 * **Loyalty Rewards**: Functions as a system for earning and redeeming rewards in real-world applications​.
-* **Business Integration**: Integrated into Ofero.me and Ofero.ro platforms, enhancing business visibility and enabling blockchain-based voting for users​​.
 * **Cashback System**: Offers cashback benefits in collaboration with global and local businesses through Ofero.me​.
 
