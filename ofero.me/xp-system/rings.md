@@ -1,5 +1,6 @@
 ---
 description: A Ring is a small group of Ofero members who can increase each other's XP.
+icon: circles-overlap-3
 ---
 
 # Rings

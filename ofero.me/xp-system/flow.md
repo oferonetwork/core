@@ -1,5 +1,6 @@
 ---
 description: Flow rewards consistency.
+icon: water
 ---
 
 # Flow

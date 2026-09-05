@@ -1,8 +1,9 @@
 ---
 description: PLUS increases the rewards you can generate from your activity across Ofero.
+icon: square-plus
 ---
 
-# PLUS
+# PLUS Membership
 
 While your PLUS membership is active, you receive:
 
